@@ -4,7 +4,7 @@
 - 💻 Conhecimento em python.
 - 💻 No momento estou realizando um curso extensivo de Java para ter conhecimento amplo na linguagem, com Fundamentos Java, Orientação a Objeto, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate, API e mais.
 - 📚 Matérias conclúidas na faculdade
--   Fundamentos de Sistemas de Informação
+-     Fundamentos de Sistemas de Informação
 -     Comunicação Empresarial
 -       Lógica de Programação e Algoritmos (Python)
 -         Fundamentos de Desenvolvimento de Softwares (HTML/CSS/JavaScript)
