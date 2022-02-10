@@ -2,4 +2,9 @@
 
 - 🛠 Atualmente trabalho como Mecânico de Manutenção em uma empresa multinacional de Iogurtes.
 - 💻 Conhecimento em python.
-- 💻 Estou aprendendo Java iniciante até o nível avançado.
+- 💻 No momento estou realizando um curso extensivo de Java para ter conhecimento amplo na linguagem, com Fundamentos Java, Orientação a Objeto, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate, API e mais.
+- 📚 Matérias conclúidas na faculdade
+-   Fundamentos de Sistemas de Informação
+-     Comunicação Empresarial
+-       Lógica de Programação e Algoritmos (Python)
+-         Fundamentos de Desenvolvimento de Softwares (HTML/CSS/JavaScript)
