@@ -6,9 +6,9 @@
 - 📨 Estarei dando upload nos desafios extras que eu concluír diante o curso. 
 - 🚩 Roadmap 2022 extensivo -> Java -> Android Studio -> Flutter.
 - 📚 Matérias conclúidas na faculdade:
--   Fundamentos de Sistemas de Informação
--   Comunicação Empresarial
--   Lógica de Programação e Algoritmos (Python)
--   Fundamentos de Desenvolvimento de Softwares (HTML/CSS/JavaScript)
--   Fundamentos da Computação
--   Fundamentos de Infraestrutura da Tecnologia da Informação
+-     Fundamentos de Sistemas de Informação
+-     Comunicação Empresarial
+-     Lógica de Programação e Algoritmos (Python)
+-     Fundamentos de Desenvolvimento de Softwares (HTML/CSS/JavaScript)
+-     Fundamentos da Computação
+-     Fundamentos de Infraestrutura da Tecnologia da Informação
